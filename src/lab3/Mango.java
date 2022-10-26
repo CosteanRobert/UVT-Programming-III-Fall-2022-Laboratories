@@ -1,6 +1,6 @@
 package lab3;
 
-public class gMango extends Fruit implements Peelable, SeedRemovable {
+public class Mango extends Fruit implements Peelable, SeedRemovable {
     private boolean seedsRemoved;
     private boolean peeledOff;
 
